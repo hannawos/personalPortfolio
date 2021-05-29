@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #dcb4ed;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #dcb4ed;
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2eafec;
+  background: #dcb4ed;
   color: #fff;
 }
 
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #362c3f;
 }
 
 #header .profile h1 {
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #612b6e;
   color: #fff;
   text-decoration: none;
 }
